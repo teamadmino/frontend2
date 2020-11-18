@@ -1,0 +1,23 @@
+{
+    "server": "http://localhost:4070",
+    "company": "FBZ Vezérlőpult",
+    "theme": {
+        "primary": "#14c68d",
+        "accent": "#ffe63c",
+        "warn": "#ff0059",
+        "background": "#27314c",
+        "foreground": "#ffffff"
+    },
+    "theme1": {
+        "primary": "#14c68d",
+        "accent": "#ef7d18",
+        "warn": "#ff6630",
+        "background": "#eeeeee",
+        "foreground": "#333333"
+    },
+    "loginScreen": "_test:welcome/welcome",
+    "loginScreen1": "_test:t1/admino2_newschema",
+    "userConfigScreen": "UserConfigScreen",
+    "editorEndpoint": "_editorEndpoint",
+    "translations": {}
+}

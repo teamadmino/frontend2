@@ -1,0 +1,1 @@
+(("undefined"!=typeof self?self:this).webpackJsonpamcharts_core=("undefined"!=typeof self?self:this).webpackJsonpamcharts_core||[]).push([["xlsx"],[,function(e,n){},function(e,n){},function(e,n){}]]);

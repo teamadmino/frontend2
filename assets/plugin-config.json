@@ -1,0 +1,154 @@
+{
+  "group": {
+    "name": "Group",
+    "path": "/assets/plugins/group",
+    "controlType": "group"
+  },
+  "input": {
+    "name": "Input",
+    "path": "/assets/plugins/input"
+  },
+  "button": {
+    "name": "Button",
+    "path": "/assets/plugins/button"
+  },
+  "iframe": {
+    "name": "Iframe",
+    "path": "/assets/plugins/iframe"
+  },
+  "text": {
+    "name": "Text",
+    "path": "/assets/plugins/text"
+  },
+  "radiobutton": {
+    "name": "Radio Button",
+    "path": "/assets/plugins/radiobutton"
+  },
+  "checkbox": {
+    "name": "Checkbox",
+    "path": "/assets/plugins/checkbox"
+  },
+  "table": {
+    "name": "Table",
+    "path": "/assets/plugins/table"
+  },
+  "image": {
+    "name": "Image",
+    "path": "/assets/plugins/image"
+  },
+  "select": {
+    "name": "Select",
+    "path": "/assets/plugins/select"
+  },
+  "textarea": {
+    "name": "Text Area",
+    "path": "/assets/plugins/textarea"
+  },
+  "date": {
+    "name": "Date",
+    "path": "/assets/plugins/date"
+  },
+  "daterange": {
+    "name": "Date Range",
+    "path": "/assets/plugins/daterange"
+  },
+  "progressbar": {
+    "name": "Progressbar",
+    "path": "/assets/plugins/progressbar"
+  },
+  "stopwatch": {
+    "name": "Stopwatch",
+    "path": "/assets/plugins/stopwatch"
+  },
+  "slider": {
+    "name": "Slider",
+    "path": "/assets/plugins/slider"
+  },
+  "slidetoggle": {
+    "name": "Slide Toggle",
+    "path": "/assets/plugins/slidetoggle"
+  },
+  "menu": {
+    "name": "Menu",
+    "path": "/assets/plugins/menu"
+  },
+  "code": {
+    "name": "Code",
+    "path": "/assets/plugins/code"
+  },
+  "scanner": {
+    "name": "Scanner",
+    "path": "/assets/plugins/scanner"
+  },
+  "virtualkeyboard": {
+    "name": "Virtual Keyboard",
+    "path": "/assets/plugins/virtualkeyboard"
+  },
+  "fittext": {
+    "name": "Fit Text",
+    "path": "/assets/plugins/fittext"
+  },
+  "map": {
+    "name": "Map",
+    "path": "/assets/plugins/map",
+    "deps": [
+      "three",
+      "maptalks"
+    ]
+  },
+  "three": {
+    "name": "Three",
+    "path": "/assets/plugins/three",
+    "includedLibs": {
+      "three": "three"
+    }
+  },
+  "maptalks": {
+    "name": "Maptalks",
+    "path": "/assets/plugins/maptalks",
+    "includedLibs": {
+      "maptalks": "maptalks",
+      "ThreeLayer": "maptalks.three/dist/maptalks.three"
+    },
+    "styles": [
+      "node_modules/maptalks/dist/maptalks.css"
+    ]
+  },
+  "amcharts/xychart": {
+    "name": "AmchartsXYChartPlugin",
+    "path": "/assets/plugins/amcharts/xychart",
+    "deps": [
+      "amcharts/core"
+    ]
+  },
+  "amcharts/core": {
+    "name": "AmchartsCorePlugin",
+    "path": "/assets/plugins/amcharts/core",
+    "includedLibs": {
+      "am4charts": "@amcharts/amcharts4/charts/*",
+      "am4maps": "@amcharts/amcharts4/maps/*",
+      "am4core": "@amcharts/amcharts4/core/*",
+      "am4themes": "@amcharts/amcharts4/themes/**"
+    }
+  },
+  "machineparts/lightset": {
+    "name": "MachinepartsLightsetPlugin",
+    "path": "/assets/plugins/machineparts/lightset"
+  },
+  "machineparts/fan": {
+    "name": "MachinepartsFanPlugin",
+    "path": "/assets/plugins/machineparts/fan"
+  },
+  "machineparts/door": {
+    "name": "MachinepartsDoorPlugin",
+    "path": "/assets/plugins/machineparts/door"
+  },
+  "machineparts/propset": {
+    "name": "MachinepartsPropsetPlugin",
+    "path": "/assets/plugins/machineparts/propset"
+  },
+  "machineparts/kamra": {
+    "name": "MachinepartsKamraPlugin",
+    "path": "/assets/plugins/machineparts/kamra"
+  }
+}

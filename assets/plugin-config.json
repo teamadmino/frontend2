@@ -150,5 +150,9 @@
   "machineparts/kamra": {
     "name": "MachinepartsKamraPlugin",
     "path": "/assets/plugins/machineparts/kamra"
+  },
+  "smartscroller": {
+    "name": "SmartscrollerPlugin",
+    "path": "/assets/plugins/smartscroller"
   }
 }

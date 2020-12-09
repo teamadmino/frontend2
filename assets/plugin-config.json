@@ -154,5 +154,13 @@
   "smartscroller": {
     "name": "SmartscrollerPlugin",
     "path": "/assets/plugins/smartscroller"
+  },
+  "otpinput": {
+    "name": "OtpinputPlugin",
+    "path": "/assets/plugins/otpinput"
+  },
+  "matrix": {
+    "name": "MatrixPlugin",
+    "path": "/assets/plugins/matrix"
   }
 }

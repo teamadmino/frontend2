@@ -162,5 +162,9 @@
   "matrix": {
     "name": "MatrixPlugin",
     "path": "/assets/plugins/matrix"
+  },
+  "fileupload": {
+    "name": "FileuploadPlugin",
+    "path": "/assets/plugins/fileupload"
   }
 }

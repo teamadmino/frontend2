@@ -16,14 +16,25 @@
         "background": "#000000",
         "foreground": "#ffffff"
     },
+    "menuTheme2": {
+        "background": "#5f6d8c",
+        "foreground": "#ffffff",
+        "primary": "#ffffff"
+    },
+    "toolbarTheme2": {
+        "background": "#000000",
+        "foreground": "#ffffff"
+    },
     "theme": {
-        "primary": "#0078d9",
+        "primary1": "#0078d9",
+        "primary": "#28ae5d",
         "accent": "#ef7d18",
-        "warn": "#ff6630",
+        "warn": "#d93131",
         "background": "#eeeeee",
         "foreground": "#333333"
     },
-    "loginScreen": "_test:welcome/welcome",
+    "loginScreen2": "_test:welcome/welcome",
+    "loginScreen": "login:fbzlogin",
     "loginScreen1": "_test:t1/admino2_newschema",
     "userConfigScreen": "UserConfigScreen",
     "editorEndpoint": "_editorEndpoint",

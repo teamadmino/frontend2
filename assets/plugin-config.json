@@ -166,5 +166,9 @@
   "fileupload": {
     "name": "FileuploadPlugin",
     "path": "/assets/plugins/fileupload"
+  },
+  "preloader": {
+    "name": "PreloaderPlugin",
+    "path": "/assets/plugins/preloader"
   }
 }

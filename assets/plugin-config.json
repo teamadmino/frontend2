@@ -128,7 +128,8 @@
       "am4charts": "@amcharts/amcharts4/charts/*",
       "am4maps": "@amcharts/amcharts4/maps/*",
       "am4core": "@amcharts/amcharts4/core/*",
-      "am4themes": "@amcharts/amcharts4/themes/**"
+      "am4themes": "@amcharts/amcharts4/themes/**",
+      "am4plugins_venn": "@amcharts/amcharts4/plugins/venn/*"
     }
   },
   "machineparts/lightset": {

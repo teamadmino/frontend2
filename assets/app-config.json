@@ -1,5 +1,6 @@
 {
-    "server": "http://localhost:4070",
+    "server": "http://10.0.1.2:4070",
+    "server1": "http://192.168.0.107:4070",
     "company": "FBZ Vezérlőpult",
     "theme2": {
         "primary": "#14c68d",
@@ -26,8 +27,7 @@
         "foreground": "#ffffff"
     },
     "theme": {
-        "primary1": "#0078d9",
-        "primary": "#28ae5d",
+        "primary": "#0078d9",
         "accent": "#ef7d18",
         "warn": "#d93131",
         "background": "#eeeeee",

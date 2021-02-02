@@ -2,19 +2,20 @@
     "server": "http://10.0.1.2:4070",
     "server1": "http://192.168.0.107:4070",
     "company": "FBZ Vezérlőpult",
+    "theme": {
+        "primary": "#0078d9",
+        "accent": "#14ba91",
+        "warn": "#d93131",
+        "background": "#f2f4f8",
+        "foreground": "#141e41"
+    },
+    "menuTheme": {},
+    "toolbarTheme": {},
     "theme2": {
         "primary": "#14c68d",
         "accent": "#ffe63c",
         "warn": "#ff0059",
         "background": "#27314c",
-        "foreground": "#ffffff"
-    },
-    "menuTheme": {
-        "background": "#212121",
-        "foreground": "#ffffff"
-    },
-    "toolbarTheme": {
-        "background": "#000000",
         "foreground": "#ffffff"
     },
     "menuTheme2": {
@@ -25,13 +26,6 @@
     "toolbarTheme2": {
         "background": "#000000",
         "foreground": "#ffffff"
-    },
-    "theme": {
-        "primary": "#0078d9",
-        "accent": "#ef7d18",
-        "warn": "#d93131",
-        "background": "#eeeeee",
-        "foreground": "#333333"
     },
     "loginScreen2": "_test:welcome/welcome",
     "loginScreen": "login:fbzlogin",

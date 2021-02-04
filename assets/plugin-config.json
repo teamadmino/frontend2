@@ -121,6 +121,10 @@
       "amcharts/core"
     ]
   },
+  "amcharts/venn": {
+    "name": "AmchartsVennPlugin",
+    "path": "/assets/plugins/amcharts/venn"
+  },
   "amcharts/core": {
     "name": "AmchartsCorePlugin",
     "path": "/assets/plugins/amcharts/core",
@@ -128,8 +132,7 @@
       "am4charts": "@amcharts/amcharts4/charts/*",
       "am4maps": "@amcharts/amcharts4/maps/*",
       "am4core": "@amcharts/amcharts4/core/*",
-      "am4themes": "@amcharts/amcharts4/themes/**",
-      "am4plugins_venn": "@amcharts/amcharts4/plugins/venn/*"
+      "am4themes": "@amcharts/amcharts4/themes/**"
     }
   },
   "machineparts/lightset": {
@@ -171,5 +174,13 @@
   "preloader": {
     "name": "PreloaderPlugin",
     "path": "/assets/plugins/preloader"
+  },
+  "treemenu": {
+    "name": "TreemenuPlugin",
+    "path": "/assets/plugins/treemenu"
+  },
+  "colorpicker": {
+    "name": "ColorpickerPlugin",
+    "path": "/assets/plugins/colorpicker"
   }
 }

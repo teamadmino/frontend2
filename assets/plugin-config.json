@@ -182,5 +182,9 @@
   "colorpicker": {
     "name": "ColorpickerPlugin",
     "path": "/assets/plugins/colorpicker"
+  },
+  "tabs": {
+    "name": "TabsPlugin",
+    "path": "/assets/plugins/tabs"
   }
 }

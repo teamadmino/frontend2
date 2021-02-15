@@ -186,5 +186,9 @@
   "tabs": {
     "name": "TabsPlugin",
     "path": "/assets/plugins/tabs"
+  },
+  "webspeech": {
+    "name": "WebspeechPlugin",
+    "path": "/assets/plugins/webspeech"
   }
 }

@@ -1,6 +1,6 @@
 {
-    "server": "http://localhost:4070",
-    "server1": "http://192.168.0.107:4070",
+    "server1": "http://localhost:4070",
+    "server": "http://192.168.0.107:4070",
     "company": "FBZ Vezérlőpult",
     "theme": {
         "primary": "#0078d9",

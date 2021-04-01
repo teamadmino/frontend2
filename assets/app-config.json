@@ -1,6 +1,6 @@
 {
-    "server": "http://localhost:4070",
-    "server1": "http://192.168.0.107:4070",
+    "server1": "http://localhost:4070",
+    "server": "http://192.168.0.107:4070",
     "company": "FBZ Vezérlőpult",
     "theme": {
         "primary": "#0078d9",
@@ -27,9 +27,8 @@
         "background": "#000000",
         "foreground": "#ffffff"
     },
-    "loginScreen": "scanner:scanner1",
     "loginScreen2": "_test:welcome/welcome",
-    "loginScreen3": "login:fbzlogin",
+    "loginScreen": "login:fbzlogin",
     "loginScreen1": "_test:t1/admino2_newschema",
     "userConfigScreen": "UserConfigScreen",
     "editorEndpoint": "_editorEndpoint",

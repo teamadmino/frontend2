@@ -77,7 +77,7 @@
     "path": "/assets/plugins/code"
   },
   "scanner": {
-    "name": "Scanner",
+    "name": "ScannerPlugin",
     "path": "/assets/plugins/scanner"
   },
   "virtualkeyboard": {

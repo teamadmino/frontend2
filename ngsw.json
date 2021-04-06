@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617316590851,
+  "timestamp": 1617693643251,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -181,7 +181,7 @@
     "/3.1ea1a68e744748552887.png": "8edb159ce601906a0ab577ea920eaac7cfdfcaec",
     "/5.ddb0dd277b941269ac13.png": "105a2da45398bd5827675af84c7d209e9bdc5ff9",
     "/5_1.e8af3e82476018a16849.png": "a3e2ed2f2d3c991ffaf7761e6010419c240fd2d0",
-    "/assets/app-config.json": "5cc1fe76e2b95c7901bb7748644589d0aa27b080",
+    "/assets/app-config.json": "e2bb6add00d5f48972039faa81df35b4360bb06d",
     "/assets/favicon/android-icon-144x144.png": "2f86405cc7f0e8eb95ca57d441c03f982191e8e3",
     "/assets/favicon/android-icon-192x192.png": "ce8c2b1f7bca3bc3ce6a53b1798816c128bea1ae",
     "/assets/favicon/android-icon-36x36.png": "3558b7c58153f33042094b2e847c6e7dde4b7889",
@@ -289,7 +289,7 @@
     "/assets/plugins/radiobutton.js": "dbed8aa46543a1032df0da905fb2d10424bffd9c",
     "/assets/plugins/radiobutton.js.map": "e74d05dd2c6f6bdb0bb6273f8d2eb03f4adf7362",
     "/assets/plugins/radiobutton/main.js": "623ccc426ef4b4698bcb51a70f8154712e456b50",
-    "/assets/plugins/scanner/main.js": "e9c9670f5ed9db02971c22c744324171b9310c97",
+    "/assets/plugins/scanner/main.js": "d132e093b821149f9c40e7a46a8e652e5a6302ae",
     "/assets/plugins/select/main.js": "8a7bd71b939b9b29d92ff02aad0c15a1c0e5c75e",
     "/assets/plugins/slider/main.js": "b6c34b4d2c76c07a10d35516df180a91ec9f7847",
     "/assets/plugins/slidetoggle/main.js": "a0af83acfa8d2adbeb6307d02cf4d72b82b89588",

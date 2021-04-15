@@ -27,10 +27,10 @@
         "background": "#000000",
         "foreground": "#ffffff"
     },
-    "loginScreen": "scanner:scanner1?scanner=1",
-    "loginScreen2": "_test:welcome/welcome",
-    "loginScreen3": "login:fbzlogin",
-    "loginScreen1": "_test:t1/admino2_newschema",
+    "loginScreen2": "scanner:scanner1?scanner=1",
+    "loginScreen1": "_test:welcome/welcome",
+    "loginScreen": "login:fbzlogin",
+    "loginScreen3": "_test:t1/admino2_newschema",
     "userConfigScreen": "UserConfigScreen",
     "editorEndpoint": "_editorEndpoint",
     "translations": {}

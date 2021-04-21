@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618488048260,
+  "timestamp": 1618965345533,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3fe3858274f1c9a379b3.js",
+        "/main.5763501feb29907d7c95.js",
         "/manifest.webmanifest",
         "/polyfills-es5.1bfff3f82f688ebe356e.js",
         "/polyfills.ed482a0db75b3e46e245.js",
         "/runtime.0e49e2b53282f40c8925.js",
         "/scripts.5d1ae681867a9d4f8b58.js",
-        "/styles.9811e388415f2fe54212.css"
+        "/styles.95d22f0b563b83f9ddab.css"
       ],
       "patterns": []
     },
@@ -181,7 +181,7 @@
     "/3.1ea1a68e744748552887.png": "8edb159ce601906a0ab577ea920eaac7cfdfcaec",
     "/5.ddb0dd277b941269ac13.png": "105a2da45398bd5827675af84c7d209e9bdc5ff9",
     "/5_1.e8af3e82476018a16849.png": "a3e2ed2f2d3c991ffaf7761e6010419c240fd2d0",
-    "/assets/app-config.json": "88a0c98bd59935c9efa4b06c00dea3d8e2702f2b",
+    "/assets/app-config.json": "b6093bbef73cd10ff6dc523813e53ea0b8399605",
     "/assets/favicon/android-icon-144x144.png": "2f86405cc7f0e8eb95ca57d441c03f982191e8e3",
     "/assets/favicon/android-icon-192x192.png": "ce8c2b1f7bca3bc3ce6a53b1798816c128bea1ae",
     "/assets/favicon/android-icon-36x36.png": "3558b7c58153f33042094b2e847c6e7dde4b7889",
@@ -248,8 +248,8 @@
     "/assets/plugins/checkbox/main.js": "613aa21c2341c5ea56db63a3f7d17cd01195a898",
     "/assets/plugins/code/main.js": "f9a581011f587f107a2089a13a185a40391c0a30",
     "/assets/plugins/colorpicker/main.js": "b8e86f9d885c80945094b878740bead0275d172c",
-    "/assets/plugins/date/main.js": "ecec355680574244f0c1b6a95659d7572ab3929b",
-    "/assets/plugins/daterange/main.js": "9cdfd7d0e59917aa89389f7102ef4c57c0e1c896",
+    "/assets/plugins/date/main.js": "2fa2c48ffa3d71d6acdcf9b2c09e364ab2ef5863",
+    "/assets/plugins/daterange/main.js": "0fb27043a174fb2890926f1eceeaa296bb030b6e",
     "/assets/plugins/fileupload/main.js": "9c18d299498cb531c42af4324130e983dda88206",
     "/assets/plugins/fittext/main.js": "ed27400f50f290f2305a93bf4bec60e4708a7581",
     "/assets/plugins/group.js": "4c6750057c2fa6ca6ce5f19f5037c5f5d163cc12",
@@ -261,7 +261,7 @@
     "/assets/plugins/image/main.js": "02c2a555f4bf9627f264d12f5c0082895752c178",
     "/assets/plugins/input.js": "3e4a2959d4b725d6c1b3ac3d6a2c6b2c396d9447",
     "/assets/plugins/input.js.map": "b1b660bfb9bf02e2b3ceda08a7082ee099b333a5",
-    "/assets/plugins/input/main.js": "82152cc739028efd8933c74a0e0a45b4bd307dff",
+    "/assets/plugins/input/main.js": "e731a401378b7072f9db21f153a926b61091b896",
     "/assets/plugins/machineparts/door/main.js": "381046c56cb1d1a6fe3610cd7510910473fcba51",
     "/assets/plugins/machineparts/fan/main.js": "902b212cc94c85f45fb54d9ca18850bd8603707a",
     "/assets/plugins/machineparts/kamra/main.js": "4997dacf49497f9b49298ced7d74c6b265f536f9",
@@ -289,8 +289,8 @@
     "/assets/plugins/radiobutton.js": "dbed8aa46543a1032df0da905fb2d10424bffd9c",
     "/assets/plugins/radiobutton.js.map": "e74d05dd2c6f6bdb0bb6273f8d2eb03f4adf7362",
     "/assets/plugins/radiobutton/main.js": "623ccc426ef4b4698bcb51a70f8154712e456b50",
-    "/assets/plugins/scanner/main.js": "d132e093b821149f9c40e7a46a8e652e5a6302ae",
-    "/assets/plugins/select/main.js": "8a7bd71b939b9b29d92ff02aad0c15a1c0e5c75e",
+    "/assets/plugins/scanner/main.js": "188132c8f7f8078003e945ce0ee5e94d9f07e708",
+    "/assets/plugins/select/main.js": "1af7b708b6825b8f9a06a5a68e23d6e61de4a952",
     "/assets/plugins/slider/main.js": "b6c34b4d2c76c07a10d35516df180a91ec9f7847",
     "/assets/plugins/slidetoggle/main.js": "a0af83acfa8d2adbeb6307d02cf4d72b82b89588",
     "/assets/plugins/smartscroller/main.js": "f5370c797acde15ca3154229cabd45b77490c19a",
@@ -302,7 +302,7 @@
     "/assets/plugins/text.js": "1e92e5d184a88a45c6e140bda44bbf0b4a4532f8",
     "/assets/plugins/text.js.map": "21a9a67f1e1bea4136a4295137ce0790feadaa45",
     "/assets/plugins/text/assets/castle.jpg": "752441e0babacdf875482516b77dde996d0a88ec",
-    "/assets/plugins/text/main.js": "8579fa28aa0a4dc82b29959e849d22b1e891f5d4",
+    "/assets/plugins/text/main.js": "a1779ee63a84d387df63f5e319d98f1234dde5f8",
     "/assets/plugins/textarea/main.js": "a730455840583e4cc65899e899b2bc89cc4d068f",
     "/assets/plugins/three.js": "7078af8b095ff360d30e3afff81c68cef03ffd03",
     "/assets/plugins/three.js.map": "a2390ce063378fa691b9d16a6a7fc134e6898d40",
@@ -316,18 +316,18 @@
     "/close-2.846d9fbd2531c49ff320.png": "75c0769e4bedd4ba9a18b7ed281733a35be74d52",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/ico-dot.9762deb1061cfa23470e.png": "a78236e4e993a2fb707323e75e5bccd6bc3b1bab",
-    "/index.html": "35d491a604f9cf0c43cb721ebdabf97bd09fc2bf",
+    "/index.html": "54fb7d6c39aff417d671eefd62e295d495b01565",
     "/infownd-close-hover.156fea7a633fa7a0057d.png": "5df7f4fc9b7f3c25ac1bcbba921ac130d4ee9cca",
     "/infownd-close.3338db1fcf6e3932d3c0.png": "a477917e1ff925d802158dc5ec8b3e7ab170e3a9",
     "/kedu.9ded9480034da4c54b82.png": "239d3b241cd028615d0ef632c0bf2918cf3da1c1",
     "/layer.ca7311c898af9497dcd6.png": "14f50eef92d5b6b705305000aa9ff234ebee637f",
-    "/main.3fe3858274f1c9a379b3.js": "0b08e86df24ddfdd7d6ff02a8152344295c9a14e",
+    "/main.5763501feb29907d7c95.js": "bce7ecd79d4fae230ad2561a919b312f5c3bd5dc",
     "/manifest.webmanifest": "8cadd8e2b05baae02aacd8cede94d4e2b02229c3",
     "/polyfills-es5.1bfff3f82f688ebe356e.js": "bbce676d4d46523675fa4f8624f811b4feea3bd9",
     "/polyfills.ed482a0db75b3e46e245.js": "4333975be8f65d73d984fddc173870899b9e5e00",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.5d1ae681867a9d4f8b58.js": "c8136a69ec2f9b49602198b18e87e4ad54efca0a",
-    "/styles.9811e388415f2fe54212.css": "d1a0225d30ad419379ab152f0e0595d6f8bf91fe"
+    "/styles.95d22f0b563b83f9ddab.css": "56eddaf965c12bd568023f1d974303497ac718ec"
   },
   "navigationUrls": [
     {

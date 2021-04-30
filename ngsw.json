@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1619742658686,
+  "timestamp": 1619821873808,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -289,7 +289,7 @@
     "/assets/plugins/radiobutton.js": "dbed8aa46543a1032df0da905fb2d10424bffd9c",
     "/assets/plugins/radiobutton.js.map": "e74d05dd2c6f6bdb0bb6273f8d2eb03f4adf7362",
     "/assets/plugins/radiobutton/main.js": "623ccc426ef4b4698bcb51a70f8154712e456b50",
-    "/assets/plugins/scanner/main.js": "188132c8f7f8078003e945ce0ee5e94d9f07e708",
+    "/assets/plugins/scanner/main.js": "0fdf04bfb51f146a4069cdf42a7a218404153065",
     "/assets/plugins/select/main.js": "1af7b708b6825b8f9a06a5a68e23d6e61de4a952",
     "/assets/plugins/slider/main.js": "b6c34b4d2c76c07a10d35516df180a91ec9f7847",
     "/assets/plugins/slidetoggle/main.js": "a0af83acfa8d2adbeb6307d02cf4d72b82b89588",
@@ -297,7 +297,7 @@
     "/assets/plugins/stopwatch/main.js": "4f592ac82821ed2721bb9355858c6c357f2a8a97",
     "/assets/plugins/table.js": "e7d036f31f6d670fc9e4d403814c6202bd203e9d",
     "/assets/plugins/table.js.map": "b31cf81238ad3d23d57c807522d03e2807624318",
-    "/assets/plugins/table/main.js": "b43b701a5946368456d9c455f0fd225a9fc854fd",
+    "/assets/plugins/table/main.js": "560e1d2f72d95c812985a9fa4fffb9b534209403",
     "/assets/plugins/tabs/main.js": "371fbbc4f68d245454c7b41673b6dab855842ccb",
     "/assets/plugins/text.js": "1e92e5d184a88a45c6e140bda44bbf0b4a4532f8",
     "/assets/plugins/text.js.map": "21a9a67f1e1bea4136a4295137ce0790feadaa45",

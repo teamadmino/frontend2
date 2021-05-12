@@ -1,36 +1,36 @@
 {
-    "server": "http://localhost:4070",
-    "server1": "http://192.168.1.94:4070",
-    "company": "FBZ Vezérlőpult",
-    "theme": {
-        "primary": "#0078d9",
-        "accent": "#14ba91",
-        "warn": "#d93131",
-        "background": "#f2f4f8",
-        "foreground": "#141e41"
-    },
-    "menuTheme": {},
-    "toolbarTheme": {},
-    "theme2": {
-        "primary": "#14c68d",
-        "accent": "#ffe63c",
-        "warn": "#ff0059",
-        "background": "#27314c",
-        "foreground": "#ffffff"
-    },
-    "menuTheme2": {
-        "background": "#5f6d8c",
-        "foreground": "#ffffff",
-        "primary": "#ffffff"
-    },
-    "toolbarTheme2": {
-        "background": "#000000",
-        "foreground": "#ffffff"
-    },
-    "loginScreen2": "_test:welcome/welcome",
-    "loginScreen": "login:fbzlogin",
-    "loginScreen1": "_test:t1/admino2_newschema",
-    "userConfigScreen": "UserConfigScreen",
-    "editorEndpoint": "_editorEndpoint",
-    "translations": {}
+  "version": "version0",
+  "server": "http://localhost:4070",
+  "server1": "http://192.168.1.94:4070",
+  "company": "FBZ Vezérlőpult",
+  "theme": {
+    "primary": "#0078d9",
+    "accent": "#14ba91",
+    "warn": "#d93131",
+    "background": "#f2f4f8",
+    "foreground": "#141e41"
+  },
+  "menuTheme": {},
+  "toolbarTheme": {},
+  "theme2": {
+    "primary": "#14c68d",
+    "accent": "#ffe63c",
+    "warn": "#ff0059",
+    "background": "#27314c",
+    "foreground": "#ffffff"
+  },
+  "menuTheme2": {
+    "background": "#5f6d8c",
+    "foreground": "#ffffff",
+    "primary": "#ffffff"
+  },
+  "toolbarTheme2": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "loginScreen2": "_test:welcome/welcome",
+  "loginScreen": "login:fbzlogin",
+  "loginScreen1": "_test:t1/admino2_newschema",
+  "userConfigScreen": "UserConfigScreen",
+  "editorEndpoint": "_editorEndpoint"
 }

@@ -190,5 +190,9 @@
   "webspeech": {
     "name": "WebspeechPlugin",
     "path": "/assets/plugins/webspeech"
+  },
+  "amcharts/forceDirected": {
+    "name": "AmchartsForcedirectedPlugin",
+    "path": "/assets/plugins/amcharts/forceDirected"
   }
 }

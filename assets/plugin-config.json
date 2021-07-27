@@ -116,10 +116,7 @@
   },
   "amcharts/xychart": {
     "name": "AmchartsXYChartPlugin",
-    "path": "/assets/plugins/amcharts/xychart",
-    "deps": [
-      "amcharts/core"
-    ]
+    "path": "/assets/plugins/amcharts/xychart"
   },
   "amcharts/venn": {
     "name": "AmchartsVennPlugin",

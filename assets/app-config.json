@@ -1,8 +1,9 @@
 {
   "version": "version0",
   "server": "http://localhost:4060",
-  "server1": "http://192.168.1.94:4070",
-  "company": "FBZ Vezérlőpult",
+  "serverK": "http://localhost:4070",
+  "companyK": "FBZ Vezérlőpult",
+  "company": "Flurry Internal Insights",
   "theme": {
     "primary": "#0078d9",
     "accent": "#14ba91",
@@ -30,7 +31,7 @@
   },
   "loginScreen": "flin:login/login",
   "loginScreen2": "_test:welcome/welcome",
-  "loginScreen3": "login:fbzlogin",
+  "loginScreenK": "login:fbzlogin",
   "loginScreen1": "_test:t1/admino2_newschema",
   "userConfigScreen": "UserConfigScreen",
   "editorEndpoint": "_editorEndpoint"

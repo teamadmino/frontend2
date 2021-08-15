@@ -2,8 +2,8 @@
   "version": "version0",
   "serverF": "http://localhost:4060",
   "server": "http://localhost:4070",
-  "companyK": "FBZ Vezérlőpult",
-  "company": "Flurry Internal Insights",
+  "company": "FBZ Vezérlőpult",
+  "companyF": "Flurry Internal Insights",
   "theme": {
     "primary": "#0078d9",
     "accent": "#14ba91",

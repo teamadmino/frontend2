@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629050596637,
+  "timestamp": 1629051695342,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -300,7 +300,7 @@
     "/assets/plugins/radiobutton.js.map": "e74d05dd2c6f6bdb0bb6273f8d2eb03f4adf7362",
     "/assets/plugins/radiobutton/main.js": "623ccc426ef4b4698bcb51a70f8154712e456b50",
     "/assets/plugins/scanner/main.js": "8420538dd284f4d4e432b58c68de9965f9368e50",
-    "/assets/plugins/select/main.js": "4fa944c4b7436ca216cc22a6da3a7167ee9d9460",
+    "/assets/plugins/select/main.js": "b4eb1fe4d57c7e12cff71ac8d8ca59957e9a9f3f",
     "/assets/plugins/slider/main.js": "b6c34b4d2c76c07a10d35516df180a91ec9f7847",
     "/assets/plugins/slidetoggle/main.js": "a0af83acfa8d2adbeb6307d02cf4d72b82b89588",
     "/assets/plugins/smartscroller/main.js": "f5370c797acde15ca3154229cabd45b77490c19a",

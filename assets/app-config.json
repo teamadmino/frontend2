@@ -30,7 +30,10 @@
     "foreground": "#ffffff"
   },
   "loginScreenF": "flin:login/login",
+
   "loginScreen": "login:fbzlogin",
+  "loginScreen_": "_test:t1/fw1",
+
   "loginScreen2": "_test:welcome/welcome",
   "loginScreen1": "_test:t1/admino2_newschema",
   "userConfigScreen": "UserConfigScreen",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1630469236479,
+  "timestamp": 1631230755516,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -264,7 +264,7 @@
     "/assets/plugins/fittext/main.js": "ed27400f50f290f2305a93bf4bec60e4708a7581",
     "/assets/plugins/group.js": "4c6750057c2fa6ca6ce5f19f5037c5f5d163cc12",
     "/assets/plugins/group.js.map": "eb4e3fd40d8985ab5eba50df6d1c385b78fefbb7",
-    "/assets/plugins/group/main.js": "40677b80c8b9ca50bb3c27e323c5b7d2ff573e00",
+    "/assets/plugins/group/main.js": "e05b2b8cb38955262a7cd0552feef06a7b3d12c5",
     "/assets/plugins/iframe.js": "74f9e0fc854073a4b5cbae8aa6be540fd6773ebe",
     "/assets/plugins/iframe.js.map": "8e1c28d3a0dd831ce56f42f08b53d7400677fb80",
     "/assets/plugins/iframe/main.js": "6952a0adabbab1818c5164b1854cfc62928448ff",

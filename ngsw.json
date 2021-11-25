@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637463484593,
+  "timestamp": 1637863822677,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -108,6 +108,7 @@
         "/assets/plugins/colorpicker/main.js",
         "/assets/plugins/date/main.js",
         "/assets/plugins/daterange/main.js",
+        "/assets/plugins/fileupload/main.js",
         "/assets/plugins/fittext/main.js",
         "/assets/plugins/group.js",
         "/assets/plugins/group.js.map",
@@ -259,6 +260,7 @@
     "/assets/plugins/colorpicker/main.js": "b8e86f9d885c80945094b878740bead0275d172c",
     "/assets/plugins/date/main.js": "f63f0fcd303b95c1ca3805101f59f54ca598baec",
     "/assets/plugins/daterange/main.js": "4ae1272998ad7a2eeb99ce39a9542a58f1cf98f8",
+    "/assets/plugins/fileupload/main.js": "301950a4896e723034e80ac479c26cdb01a67410",
     "/assets/plugins/fittext/main.js": "ed27400f50f290f2305a93bf4bec60e4708a7581",
     "/assets/plugins/group.js": "4c6750057c2fa6ca6ce5f19f5037c5f5d163cc12",
     "/assets/plugins/group.js.map": "eb4e3fd40d8985ab5eba50df6d1c385b78fefbb7",
@@ -297,7 +299,7 @@
     "/assets/plugins/radiobutton.js": "dbed8aa46543a1032df0da905fb2d10424bffd9c",
     "/assets/plugins/radiobutton.js.map": "e74d05dd2c6f6bdb0bb6273f8d2eb03f4adf7362",
     "/assets/plugins/radiobutton/main.js": "623ccc426ef4b4698bcb51a70f8154712e456b50",
-    "/assets/plugins/scanner/main.js": "72f65bdd4c6cadde57f08c83c974c5cd723d0806",
+    "/assets/plugins/scanner/main.js": "a5f932eaf32b1175b857acc15f71dcd9ad2723a4",
     "/assets/plugins/select/main.js": "9d3eeb58a3c3eb078e06299c40aea0b9b2b9630c",
     "/assets/plugins/slider/main.js": "b6c34b4d2c76c07a10d35516df180a91ec9f7847",
     "/assets/plugins/slidetoggle/main.js": "a0af83acfa8d2adbeb6307d02cf4d72b82b89588",

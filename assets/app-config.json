@@ -1,7 +1,7 @@
 {
-  "version": "1646009722",
-   "server1": "http://localhost:4070",
-  "server": "http://192.168.1.94:4070",
+  "version": "1646032002",
+  "server": "http://localhost:4060",
+  "server1": "http://192.168.1.94:4070",
   "company": "FBZ Vezérlőpult",
   "theme": {
     "primary": "#0078d9",
@@ -29,9 +29,10 @@
     "background": "#000000",
     "foreground": "#ffffff"
   },
-  "loginScreen2": "_test:welcome/welcome",
-  "loginScreen": "login:fbzlogin",
+  "loginScreen": "_admino:user/login",
   "loginScreen1": "_test:t1/admino2_newschema",
+  "loginScreen2": "_test:welcome/welcome",
+  "loginScreen3": "login:fbzlogin",
   "userConfigScreen": "UserConfigScreen",
   "editorEndpoint": "_editorEndpoint"
 }

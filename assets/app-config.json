@@ -1,8 +1,12 @@
 {
-  "version": "1650240945",
+  "version": "1652372760",
+  "serverD": "http://localhost:4060",
+  "serverF": "http://localhost:4070",
+
   "server": "http://localhost:4060",
+
   "server1": "http://192.168.1.94:4070",
-  "company": "FBZ Vezérlőpult",
+  "company": "Served from IntelliJ",
   "theme": {
     "primary": "#0078d9",
     "accent": "#14ba91",
@@ -29,7 +33,10 @@
     "background": "#000000",
     "foreground": "#ffffff"
   },
+  "loginScreenD": "_admino:user/login",
+  "loginScreenF": "login:fbzlogin",
   "loginScreen": "_admino:user/login",
+
   "loginScreen1": "_test:t1/admino2_newschema",
   "loginScreen2": "_test:welcome/welcome",
   "loginScreen3": "login:fbzlogin",

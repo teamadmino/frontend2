@@ -191,5 +191,9 @@
   "amcharts/forceDirected": {
     "name": "AmchartsForcedirectedPlugin",
     "path": "/assets/plugins/amcharts/forceDirected"
+  },
+  "sheet": {
+    "name": "SheetPlugin",
+    "path": "/assets/plugins/sheet"
   }
 }

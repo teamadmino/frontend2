@@ -1,5 +1,5 @@
 # frontend2  
 Production frontend2 build  
-commit 45381596eee0df96aa1d827eebf61eae27c00db9  
-Tue Aug 30 11:57:31 PDT 2022  
-version(1661885643)  
+commit cd5433405bed675627d44ce1d01ebd0bc7492b09  
+Tue Aug 30 16:19:43 PDT 2022  
+version(1661901358)  

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663633511040,
+  "timestamp": 1663968071500,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -167,7 +167,7 @@
     "/3.1ea1a68e744748552887.png": "8edb159ce601906a0ab577ea920eaac7cfdfcaec",
     "/5.ddb0dd277b941269ac13.png": "105a2da45398bd5827675af84c7d209e9bdc5ff9",
     "/5_1.e8af3e82476018a16849.png": "a3e2ed2f2d3c991ffaf7761e6010419c240fd2d0",
-    "/assets/app-config.json": "1582030ed57f2f375d294174c42fe957cb0dd6fc",
+    "/assets/app-config.json": "b2653e15f086e61d67d6da6cea0b05bd4a1b4b34",
     "/assets/favicon/android-icon-144x144.png": "2f86405cc7f0e8eb95ca57d441c03f982191e8e3",
     "/assets/favicon/android-icon-192x192.png": "ce8c2b1f7bca3bc3ce6a53b1798816c128bea1ae",
     "/assets/favicon/android-icon-36x36.png": "3558b7c58153f33042094b2e847c6e7dde4b7889",
@@ -273,7 +273,7 @@
     "/assets/plugins/slidetoggle/main.js": "862cb6c9748eca7a29fb1ac680d93503356dd4f5",
     "/assets/plugins/smartscroller/main.js": "f5370c797acde15ca3154229cabd45b77490c19a",
     "/assets/plugins/stopwatch/main.js": "4f592ac82821ed2721bb9355858c6c357f2a8a97",
-    "/assets/plugins/table/main.js": "fbaf2afa68f005a81428438bbf22829306c5e5fb",
+    "/assets/plugins/table/main.js": "505f2754708d7d6609e4e1c9fe635feef5a254bc",
     "/assets/plugins/tabs/main.js": "371fbbc4f68d245454c7b41673b6dab855842ccb",
     "/assets/plugins/text/assets/castle.jpg": "752441e0babacdf875482516b77dde996d0a88ec",
     "/assets/plugins/text/main.js": "3ce6e97a88189c4516a305ab5c06f1565c166231",

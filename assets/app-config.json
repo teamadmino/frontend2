@@ -1,9 +1,9 @@
 {
-  "version": "1664235841",
+  "version": "1664781912",
   "serverD": "http://localhost:4060",
   "serverF": "http://localhost:4070",
 
-  "server": "http://10.0.1.48:4070",
+  "server": "http://10.0.1.48:4060",
 
   "server1": "http://192.168.1.94:4070",
   "company": "Served from IntelliJ",

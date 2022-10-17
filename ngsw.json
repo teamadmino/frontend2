@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664863306189,
+  "timestamp": 1665985792953,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -201,7 +201,7 @@
     "/3.1ea1a68e744748552887.png": "8edb159ce601906a0ab577ea920eaac7cfdfcaec",
     "/5.ddb0dd277b941269ac13.png": "105a2da45398bd5827675af84c7d209e9bdc5ff9",
     "/5_1.e8af3e82476018a16849.png": "a3e2ed2f2d3c991ffaf7761e6010419c240fd2d0",
-    "/assets/app-config.json": "fa2dffccc53da2011e9493ddf8db7faf34d8c75d",
+    "/assets/app-config.json": "a777e0fdce863c8fc9ec638f280fad6ae8b5255a",
     "/assets/favicon/android-icon-144x144.png": "2f86405cc7f0e8eb95ca57d441c03f982191e8e3",
     "/assets/favicon/android-icon-192x192.png": "ce8c2b1f7bca3bc3ce6a53b1798816c128bea1ae",
     "/assets/favicon/android-icon-36x36.png": "3558b7c58153f33042094b2e847c6e7dde4b7889",
@@ -310,7 +310,7 @@
     "/assets/plugins/group/main.js": "f716ae8cd7df837b79ae029188d9c326ec6b3ca3",
     "/assets/plugins/iframe/main.js": "6952a0adabbab1818c5164b1854cfc62928448ff",
     "/assets/plugins/image/main.js": "02c2a555f4bf9627f264d12f5c0082895752c178",
-    "/assets/plugins/input/main.js": "91ada9d2ccb0c8ba57a9de777e1a0b9548ce306e",
+    "/assets/plugins/input/main.js": "770a110d6b23abab6190c53b29ec34cc54a3ce4d",
     "/assets/plugins/machineparts/door/main.js": "381046c56cb1d1a6fe3610cd7510910473fcba51",
     "/assets/plugins/machineparts/fan/main.js": "902b212cc94c85f45fb54d9ca18850bd8603707a",
     "/assets/plugins/machineparts/kamra/main.js": "4997dacf49497f9b49298ced7d74c6b265f536f9",

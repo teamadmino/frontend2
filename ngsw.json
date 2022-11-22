@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669087078320,
+  "timestamp": 1669142740671,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -202,7 +202,7 @@
     "/3.1ea1a68e744748552887.png": "8edb159ce601906a0ab577ea920eaac7cfdfcaec",
     "/5.ddb0dd277b941269ac13.png": "105a2da45398bd5827675af84c7d209e9bdc5ff9",
     "/5_1.e8af3e82476018a16849.png": "a3e2ed2f2d3c991ffaf7761e6010419c240fd2d0",
-    "/assets/app-config.json": "b7b098923d839fc278bb8a6435893b1cf793b739",
+    "/assets/app-config.json": "81157037d32eeee759ad23cecfbd07c610da8543",
     "/assets/favicon/android-icon-144x144.png": "2f86405cc7f0e8eb95ca57d441c03f982191e8e3",
     "/assets/favicon/android-icon-192x192.png": "ce8c2b1f7bca3bc3ce6a53b1798816c128bea1ae",
     "/assets/favicon/android-icon-36x36.png": "3558b7c58153f33042094b2e847c6e7dde4b7889",
@@ -308,7 +308,7 @@
     "/assets/plugins/daterange/main.js": "4ae1272998ad7a2eeb99ce39a9542a58f1cf98f8",
     "/assets/plugins/fileupload/main.js": "524b057d97544eafeecbd074ddf9e4aef3bead52",
     "/assets/plugins/fittext/main.js": "ed27400f50f290f2305a93bf4bec60e4708a7581",
-    "/assets/plugins/group/main.js": "031f04056fa31f476bf55c0034207d76425d00ed",
+    "/assets/plugins/group/main.js": "67618b099fbe502971a318e07d8481b2fdc12d2c",
     "/assets/plugins/iframe/main.js": "6952a0adabbab1818c5164b1854cfc62928448ff",
     "/assets/plugins/image/main.js": "02c2a555f4bf9627f264d12f5c0082895752c178",
     "/assets/plugins/input/main.js": "91ada9d2ccb0c8ba57a9de777e1a0b9548ce306e",
